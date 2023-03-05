@@ -8,7 +8,7 @@ RUN apt-get update -qq \
 &&  rm -rf /var/lib/apt/lists/*
 
 
-#モジュールのインストール
+#モジュールのインストー
 
 WORKDIR /tmp/work
 
